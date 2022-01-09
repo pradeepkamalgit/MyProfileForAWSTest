@@ -1,0 +1,23 @@
+.top-container {
+  background-color: hotpink;
+  width: 200px;
+  height: 200px;
+  /*position: relative;*/
+  top: 100px;
+}
+
+.middle-container {
+  background-color: indigo;
+  width: 200px;
+  height: 200px;
+  /* margin-left: 200px; */
+  position: relative;
+  bottom: 100px;
+}
+
+.bottom-container {
+  background-color: lawngreen;
+  width: 200px;
+  height: 200px;
+  margin-left: 400px;
+}
